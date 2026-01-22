@@ -2,7 +2,7 @@
 ## Project: Credit Card Fraud Detection System
 
 **Author**: Nisarg Patel  
-**Date**: 19th November 2025  
+**Date**: 19th December 2025  
 **Sign-off Date**: 4th January 2026  
 **Version**: 1.0
 
